@@ -1,9 +1,7 @@
-// Honors Honors Contract Program
-// Name: Sarthak Gupta
-// Date: 4/18/2020
-// StudentID: 1215940648
-// Lecture: MWF 10:45
-// Description: CaesarCipher class encrypts messages based on 1 key and 2 keys.
+// CaesarCipher encryption
+// Sarthak Gupta
+// 4/18/2020
+// CaesarCipher class encrypts messages based on 1 key and 2 keys.
 
 public class CaesarCipher {
 	// encrypts input string by shifting over letters by numerical key
