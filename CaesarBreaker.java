@@ -1,9 +1,7 @@
-// Honors Honors Contract Program
-// Name: Sarthak Gupta
-// Date: 4/18/2020
-// StudentID: 1215940648
-// Lecture: MWF 10:45
-// Description: CaesarBreaker deciphers encrypted messages based upon 1 and 2 keys.
+// CaesarCipher Decryption
+// Sarthak Gupta
+// 4/18/2020
+// CaesarBreaker deciphers encrypted messages based upon 1 and 2 keys.
 
 public class CaesarBreaker {
 	// counts the number of instances of each letter in the encrypted message and returns it in an array
