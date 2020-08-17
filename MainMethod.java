@@ -1,8 +1,7 @@
-// Honors Honors Contract Program
-// Name: Sarthak Gupta
-// Date: 4/18/2020
-// StudentID: 1215940648
-// Lecture: MWF 10:45
+// Caesar Cipher
+// Sarthak Gupta
+// 4/18/2020
+
 // Description: Main method creates the JavaFX GUI based program. 
 
 import javafx.application.Application;
